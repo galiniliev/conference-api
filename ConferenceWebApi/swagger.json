@@ -6,6 +6,7 @@
     "title": "Big Conference API",
     "contact": {}
   },
+  "host": "galin-conf-api.azurewebsites.net",
   "basePath": "/",
   "schemes": [
     "http",
