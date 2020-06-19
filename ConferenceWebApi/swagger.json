@@ -6,7 +6,6 @@
     "title": "Big Conference API",
     "contact": {}
   },
-  "host": "microsoft-apiapp550a1bc9d1494c23ad0cbf144f469c36.azurewebsites.net",
   "basePath": "/",
   "schemes": [
     "http",
